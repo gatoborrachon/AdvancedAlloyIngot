@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "iaa:advanced_alloy_block" }
+    }
+}

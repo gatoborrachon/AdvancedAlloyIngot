@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "iaa:advanced_alloy_block"
+    }
+
+    ],
+ 
+    "result":
+    {
+        "item": "iaa:ingotAdvancedAlloy",
+        "count": 9
+    }
+}
