@@ -24,12 +24,12 @@ public class Main {
 	@EventHandler
 	public static void PreInit(FMLPreInitializationEvent event)
 	{
-		
+		OreDictionaryCompat.registerOres();
 	}
 	@EventHandler
 	public static void Init(FMLInitializationEvent event)
 	{
-		OreDictionaryCompat.registerOres();
+		
 	}
 	@EventHandler
 	public static void PostInit(FMLPostInitializationEvent event)

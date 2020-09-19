@@ -1,14 +1,14 @@
 [
 {
   "modid": "iaa",
-  "name": "Ingot Advanced Ingot",
-  "description": "Advanced Alloy ingot for ic2+moar tinkers",
+  "name": "	Advanced Advanced Ingot",
+  "description": "Advanced Alloy ingot for ic2 + moar tinkers",
   "version": "1.0",
   "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
   "authorList": ["Gato Borrachon"],
-  "credits": "The Forge and FML guys, for making this example",
+  "credits": "To my friend and a cat",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

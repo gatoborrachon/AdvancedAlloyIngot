@@ -13,5 +13,6 @@ public class ModItems
 	public static final List<Item> ITEMS = new ArrayList<Item>();
 	
 	public static final Item ADVANCED_ALLOY_INGOT = new ItemBase("ingotAdvancedAlloy");
+	public static final Item CHROME_INGOT = new ItemBase("ingotChrome");
 	
 }
